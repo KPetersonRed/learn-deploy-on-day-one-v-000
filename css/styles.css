@@ -4280,10 +4280,6 @@ a:visited {
    background-image: url("http://i.imgur.com/xQGgqJH.jpg");
  }
 
-
-
-
-
 #yechiel-k-cover {
   background-image: url("http://i.imgur.com/fcm6zBK.jpg");
   -webkit-transition: 0.2s;
@@ -4664,8 +4660,8 @@ a:visited {
 }
 
 #kristy-peterson-cover {
-    background-image: url("http://i.imgur.com/tiIGGPo.jpg")
-}
+    background-image: url("http://i.imgur.com/tiIGGPo.jpg");
+  }
 
 #kristy-peterson-card {
     background-image: url("http://i.imgur.com/uIxRjx2.jpg");
